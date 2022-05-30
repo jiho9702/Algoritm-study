@@ -1,0 +1,4 @@
+﻿  랜선자르기.cpp
+C:\Users\jiho9\OneDrive\바탕 화면\study\AlgorithmCPP\1654\랜선자르기.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jiho9\OneDrive\바탕 화면\study\AlgorithmCPP\1654\랜선자르기.cpp(24,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1654.vcxproj -> C:\Users\jiho9\OneDrive\바탕 화면\study\AlgorithmCPP\1654\Debug\1654.exe

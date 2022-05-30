@@ -1,0 +1,4 @@
+﻿  DFSBFS.cpp
+C:\Users\jiho9\OneDrive\바탕 화면\study\AlgorithmCPP\1260\DFSBFS.cpp(20,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jiho9\OneDrive\바탕 화면\study\AlgorithmCPP\1260\DFSBFS.cpp(36,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1260.vcxproj -> C:\Users\jiho9\OneDrive\바탕 화면\study\AlgorithmCPP\1260\Debug\1260.exe
